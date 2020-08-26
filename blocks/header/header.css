@@ -1,0 +1,13 @@
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  /* выше установили ограничения для секции */
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-bottom: 100px;
+  background: #f2f2f2;
+  overflow: hidden;
+  /*что бы синий квадрат не вылазил вниз, на моем текущем разрешении он торчит*/
+}

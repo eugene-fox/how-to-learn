@@ -1,0 +1,8 @@
+.footer__column-link {
+  color: inherit;
+    text-decoration: none;
+  }
+
+  .footer__column-link:hover {
+    text-decoration: underline;
+  }
