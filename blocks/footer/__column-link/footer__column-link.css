@@ -1,8 +1,9 @@
 .footer__column-link {
   color: inherit;
-    text-decoration: none;
-  }
+  text-decoration: none;
+}
 
-  .footer__column-link:hover {
-    text-decoration: underline;
-  }
+.footer__column-link:hover {
+  opacity: 65%;
+  transition: .3s;
+}

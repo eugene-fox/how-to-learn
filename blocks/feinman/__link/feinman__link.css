@@ -11,5 +11,7 @@
 }
 
 .feinman__link:hover {
-  text-decoration: underline;
+  opacity: 65%;
+  transition: .3s;
 }
+
